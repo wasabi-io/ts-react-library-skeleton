@@ -4,6 +4,6 @@ import Application from "./app/Application";
 const app = document.getElementById("app");
 
 ReactDOM.render(
-    <Application name="Robe Application" />,
+    <Application name="Skeleton Application" />,
     app
 );
