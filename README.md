@@ -11,11 +11,20 @@ $ git clone ....`
 $ cd ts-react-library-skeleton
 $ npm install
 ```
+* run start Showcase (Development Mode) 
+```ssh
+$ npm start
+```
 
-* run test
+* run test (Test Mode) 
 
 ```ssh
 $ npm test
+```
+
+* generate Showcase build (Production Mode) 
+```ssh
+$ npm start
 ```
 
 * run coverage
@@ -24,14 +33,13 @@ $ npm test
 $ npm run coverage
 ```
 
-
-* export docs
+* generate api docs
 
 ```ssh
 $ npm run docs
 ```
 
-* build code as javascript (common-js)
+* build library as javascript (common-js)
 
 ```ssh
 $ npm build
